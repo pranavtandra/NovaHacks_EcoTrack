@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './EducationalResources.css';
+
 
 const EducationalResources = () => {
   const [activeCategory, setActiveCategory] = useState('Videos');

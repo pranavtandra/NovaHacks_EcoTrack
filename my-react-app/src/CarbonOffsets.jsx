@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './CarbonOffsets.css';
+
 
 const CarbonOffsets = () => {
   const [activeCategory, setActiveCategory] = useState('all');
